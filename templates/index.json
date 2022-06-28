@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "{{ shop.brand.cover_image }}",
+        "image": "shopify:\/\/shop_images\/glamihr-2-scaled_1.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -111,20 +111,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "accessories"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "dark-heather-gray-dlmn-double-ruffle-tunic",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "shoes"
           }
         }
       },
